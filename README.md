@@ -91,3 +91,14 @@ git clone https://github.com/yourusername/deep-learning-image-classification-cap
 cd deep-learning-image-classification-capstone
 pip install -r requirements.txt
 python src/train.py
+
+Future Improvements
+Experiment with deeper architectures (ResNet, EfficientNet)
+Apply learning rate scheduling
+Use transfer learning for improved accuracy
+Extend the model to larger or domain-specific datasets
+
+Author
+Yash Pandit
+Artificial Intelligence & Machine Learning
+Fanshawe College
